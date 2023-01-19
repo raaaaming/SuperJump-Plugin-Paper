@@ -1,0 +1,6 @@
+name: Superjump
+version: '${project.version}'
+main: com.raaaaming.superjump.Main
+api-version: 1.19
+authors: [ Raaaaming ]
+description: pushooooooooong!
